@@ -1,1 +1,8 @@
+1. Add CSS file to adjust the spacing between headers. 
+Ref: https://jsfiddle.net/XtcgA/  from https://stackoverflow.com/questions/19240522/how-to-decrease-space-between-headings
+Probs need something like this:
+h3{
+    margin:0;
+    padding:0;
+}
 
