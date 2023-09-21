@@ -12,8 +12,9 @@ description: AN INTERACTIVE RESUME
  <p>all the test stuff i did.</p>
                                                              
  
- <h2>Branch Chief, Orbital Warfare Division</h2>
- <h3>Space Security and Defense Program</h3>
+ <h2 class="mpc_chief">Branch Chief, Orbital Warfare Division</h2>
+ <h3 class="SSDP">Space Security and Defense Program</h3>
+ 
  <p>Lead 23-member mission planning cell for DoD’s $7B seven satellite space-based Space Situational Awareness enterprise. 
   Fused software development, engineering, intelligence, orbital analysis, and mission protection in support of AFSPC’s 
   orbital engagement missions. Directed planning team responsible for facilitating tactical mission execution with five 
